@@ -1,0 +1,23 @@
+PODS:
+  - AFNetworking (2.0.0-RC3):
+    - AFNetworking/Core
+  - AFNetworking/Core (2.0.0-RC3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLConnection (2.0.0-RC3)
+  - AFNetworking/Reachability (2.0.0-RC3)
+  - AFNetworking/Security (2.0.0-RC3)
+  - AFNetworking/Serialization (2.0.0-RC3)
+  - ObjectiveGumbo (0.1)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.0.0-RC3)
+  - ObjectiveGumbo (= 0.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: ebc18e280dab2e71f9368cfc8e5c60ed125eec1a
+  ObjectiveGumbo: 76576087e8b3d6e00f4fd4dee7b13e11b1da68e9
+
+COCOAPODS: 0.23.0
